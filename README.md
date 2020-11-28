@@ -1,4 +1,5 @@
 # Скользящий контент-план для блога
+![Скользящий контент-план](https://github.com/AndreyVorozhko/RollingContentPlan/raw/main/rolling_content_plan.jpg "Скользящий контент-план")
 Это пример [контент-плана](https://github.com/AndreyVorozhko/RollingContentPlan/raw/main/RollingContentPlan.xlsx "Скачать пример скользящего контент-плана") для блога в формате Excel
 
 ## Преимущества перед обычным контент-планом:
